@@ -1,0 +1,13 @@
+[debug] Packaging D:\scala\Scala_Content\Scala_project\firstScalaProject\target\scala-2.12\firstscalaproject_2.12-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	com
+[debug] 	  D:\scala\Scala_Content\Scala_project\firstScalaProject\target\scala-2.12\classes\com
+[debug] 	com\spark
+[debug] 	  D:\scala\Scala_Content\Scala_project\firstScalaProject\target\scala-2.12\classes\com\spark
+[debug] 	com\spark\learning
+[debug] 	  D:\scala\Scala_Content\Scala_project\firstScalaProject\target\scala-2.12\classes\com\spark\learning
+[debug] 	com\spark\learning\App1$.class
+[debug] 	  D:\scala\Scala_Content\Scala_project\firstScalaProject\target\scala-2.12\classes\com\spark\learning\App1$.class
+[debug] 	com\spark\learning\App1.class
+[debug] 	  D:\scala\Scala_Content\Scala_project\firstScalaProject\target\scala-2.12\classes\com\spark\learning\App1.class
+[debug] Done packaging.
